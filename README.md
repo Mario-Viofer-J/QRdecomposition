@@ -53,7 +53,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![image](https://github.com/Mario-Viofer-J/QRdecomposition/assets/144979232/106c2fb9-bbe8-4edd-8668-37e638daf6a7)
+![Screenshot 2024-04-23 103258](https://github.com/Mario-Viofer-J/QRdecomposition/assets/144979232/25ef6432-d59d-4b94-b219-db64092b4eeb)
 
 ```
 
